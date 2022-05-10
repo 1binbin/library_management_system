@@ -1,0 +1,2 @@
+在mysql中先创建library_management架构再运行表创建脚本和数据脚本
+运行StartStage.java即启动系统
